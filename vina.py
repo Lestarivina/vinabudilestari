@@ -7,7 +7,7 @@ st.write("""
 		Universitas Nasional Karangturi
 		"""
 		)
-image = Image.open("Vina.JPEG")
+image = Image.open("Vina.jpeg")
 st.image(image, width=200)
 
 
