@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image 
 
 
-st.header("Vina Budi Lestari")
+st.header("Vina Budi Lestari :wave:")
 st.write("""
 		Universitas Nasional Karangturi
 		"""
