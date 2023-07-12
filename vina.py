@@ -45,7 +45,7 @@ st.markdown(" ## Education", unsafe_allow_html=True)
 st.info("""2010-2016 SD N 1 PERBOTO
 		"""
 		)
-st.info("""2016-2019 SMP N 2 KALIKAJAR
+st.info(""" :point: 2016-2019 SMP N 2 KALIKAJAR
 		"""
 		)
 st.info("""2019-2022 MAN 2 WONOSOBO
