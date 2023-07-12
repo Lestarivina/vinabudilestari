@@ -72,16 +72,16 @@ if submit:
 
 
 st.markdown(" ## Social Media", unsafe_allow_html=True)
-image = Image.open("Instagram.PNG")
+image = Image.open("Instagram.png")
 st.image(image, width=40)
 st.write("[Instagram >](https://www.instagram.com/vinalstr_24/saved/)")
-image = Image.open("wa.JPG")
+image = Image.open("wa.jpg")
 st.image(image, width=40)
 st.write("[whatsapp >](https://https://web.whatsapp.com//vinalstr_24/saved/)")
-image = Image.open("TikTok.PNG")
+image = Image.open("TikTok.png")
 st.image(image, width=40)
 st.write("[Tiktok >](https://https://https://www.tiktok.com/foryou?lang=en//vinalstr_24/saved/)")
-image = Image.open("fb.PNG")
+image = Image.open("fb.png")
 st.image(image, width=40)
 st.write("[Facebook >](https://www.facebook.com/home.php//vinalstr_24/saved/)")
 
