@@ -52,6 +52,18 @@ st.info("""2019-2022 MAN 2 WONOSOBO
 		"""
 		)
 
+st.markdown(" ## Skill", unsafe_allow_html=True)
+st.info("""Dapat menganalisis data 
+		"""
+		)
+st.info("""Bisa menggunakan ICD 10 dengan baik 
+		"""
+		)
+st.info("""Bisa mengoperasikan microsoft office
+		"""
+		)
+
+
 
 st.markdown(" ## MIK", unsafe_allow_html=True)
 st.info("""Manajemen informasi kesehatan mencakup seluruh aktifitas pengelolaan rekam medis yang dimulai dari pengelolaan dan 
